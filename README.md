@@ -9,6 +9,7 @@ Team Members:
   - Prof. Dr. Recep Savas (Radiologist)
   
 Brief explanation of the aim of the project:
+
   Emphysema and Small Airway Diseases are diagnosed and tracked with the help of computed tomography of lung. However, lung CT does not 
 provide any quantitative, measurable, repeatable and reliably information about the phase and improvement of the patient's condition. 
 This project is about developing an algorithm that can compare a patient's lung CT during expirium and inspirium phases and generate
