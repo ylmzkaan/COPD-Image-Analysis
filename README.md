@@ -6,7 +6,6 @@ This repository does not contain the source code for the project yet but only th
 Team Members: 
   - Kaan Yilmaz
   - Prof. Dr. Mehmet Ufuk Yilmaz (Chest Specialist)
-  - Prof. Dr. Recep Savas (Radiologist)
   
   
 Brief explanation of the aim of the project:
